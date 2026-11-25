@@ -1,0 +1,8 @@
+Course: Artificial Intelligence
+Course Code: AID201A
+Department: Computer Science and Engineering
+Duration: One Semester
+Programming Language: Python
+Knowledge Representation: Dictionary
+Search Technique: Keyword Matching
+Reasoning Technique: Rule-Based Reasoning
